@@ -1,0 +1,12 @@
+# База 1С и служебное (не выгрузка конфигурации)
+*.1CD
+*.1CL
+*.cfl
+*.lgp
+*.log
+*.pfl
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store
