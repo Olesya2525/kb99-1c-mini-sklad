@@ -51,8 +51,8 @@
 		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных" id="4afb122d-69fa-4553-84e1-062a964695fc" configVersion="e0778685d740c74c88c8c756d3aefc9100000000"/>
 		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="4afb122d-69fa-4553-84e1-062a964695fc.0" configVersion="3e19a09f6dd0ab4aa83deb228e05523200000000"/>
 		<Metadata name="Report.ОстаткиНаДату" id="d242bc8a-6409-457a-949c-e054e00963c6" configVersion="c97191432b1f7a4da3a1892d71bad79500000000"/>
-		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34" configVersion="4de8907e15c37f488f71a68970cafdf300000000"/>
-		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34.0" configVersion="dacdf249b001e6448707df2db2396aba00000000"/>
+		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34" configVersion="8e74f88a94a43a478130cfb0819e952600000000"/>
+		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34.0" configVersion="fbefc2d8786afb448c1ad94dfc83d30100000000"/>
 		<Metadata name="Subsystem.МиниСклад" id="ac4731c0-0e63-4c6f-9493-1f8f6d117c79" configVersion="4bd3020669197b43a27d606ea03f1aea00000000"/>
 		<Metadata name="Subsystem.МиниСклад.CommandInterface" id="ac4731c0-0e63-4c6f-9493-1f8f6d117c79.1" configVersion="04b197d646160b4a97d5ed003389534c00000000"/>
 	</ConfigVersions>
