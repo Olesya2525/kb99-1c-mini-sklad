@@ -257,6 +257,9 @@
 			<Role>Кладовщик</Role>
 			<Role>Менеджер</Role>
 			<CommonModule>РаботаСДокументами</CommonModule>
+			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
+			<ScheduledJob>СлияниеИндекса</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Document>Поступление</Document>
