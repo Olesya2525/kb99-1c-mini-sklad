@@ -18,7 +18,7 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="7919158d-fd00-44ce-b0bc-973757cb8937.0" configVersion="a179b33644f37b4b96d6febf8a6d733c00000000"/>
 		<Metadata name="CommonModule.РегламентныеПроцедуры" id="c9cdd4e3-a67f-4288-8aa7-cfd54f97e1e7" configVersion="e1042bfd6d26de41a00f66ded1eec70e00000000"/>
 		<Metadata name="CommonModule.РегламентныеПроцедуры.Module" id="c9cdd4e3-a67f-4288-8aa7-cfd54f97e1e7.0" configVersion="4b56dc1b55d0cd46825b6c4a8750320e00000000"/>
-		<Metadata name="Configuration.МиниСклад" id="52febbb7-0d18-4b21-89f2-cc4d1169282a" configVersion="98729a97ad6c8e4d974a40b9b129207700000000"/>
+		<Metadata name="Configuration.МиниСклад" id="52febbb7-0d18-4b21-89f2-cc4d1169282a" configVersion="ecf005bebbde424aa3081ac8abf5c95000000000"/>
 		<Metadata name="Document.Поступление" id="b1eec21c-d7d7-44c2-9404-a8d1184e3164" configVersion="a61a71120c8f874587fd90c4fd36f62100000000">
 			<Metadata name="Document.Поступление.TabularSection.Товары.Attribute.Цена" id="05612319-89a6-4b71-a127-eb620760cf1b"/>
 			<Metadata name="Document.Поступление.TabularSection.Товары" id="2a13501d-f112-4da1-be0e-458fb5638117"/>
@@ -55,6 +55,8 @@
 		<Metadata name="Report.ОстаткиНаДату" id="d242bc8a-6409-457a-949c-e054e00963c6" configVersion="c97191432b1f7a4da3a1892d71bad79500000000"/>
 		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34" configVersion="8e74f88a94a43a478130cfb0819e952600000000"/>
 		<Metadata name="Report.ОстаткиНаДату.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="5ff8f0ff-99f0-45c0-8aab-93862e22cb34.0" configVersion="fbefc2d8786afb448c1ad94dfc83d30100000000"/>
+		<Metadata name="Role.Гость" id="bf1d6691-138b-4103-81fa-d5b24bc2efa4" configVersion="6a5aae12a9af4e469a1f4dbbb69ea34400000000"/>
+		<Metadata name="Role.Гость.Rights" id="bf1d6691-138b-4103-81fa-d5b24bc2efa4.0" configVersion="5dba4c6fd760b04783b48135b7ebf42000000000"/>
 		<Metadata name="Role.Кладовщик" id="21872521-86e2-46db-bfd2-74d799ef8d48" configVersion="0789c637176581409f887954848e5e1e00000000"/>
 		<Metadata name="Role.Кладовщик.Rights" id="21872521-86e2-46db-bfd2-74d799ef8d48.0" configVersion="ecf0711054bfb547bc202cedda5cf95c00000000"/>
 		<Metadata name="Role.Менеджер" id="60deb1cd-bf76-48e8-8b86-b54f27c75bb5" configVersion="0cdcc4c8ddfa7247bdb9c846bb739d1e00000000"/>

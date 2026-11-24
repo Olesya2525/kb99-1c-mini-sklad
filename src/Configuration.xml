@@ -256,6 +256,7 @@
 			<Role>ПолныеПрава</Role>
 			<Role>Кладовщик</Role>
 			<Role>Менеджер</Role>
+			<Role>Гость</Role>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РегламентныеПроцедуры</CommonModule>
 			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
