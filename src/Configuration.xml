@@ -253,6 +253,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>МиниСклад</Subsystem>
+			<SessionParameter>ТекущийСклад</SessionParameter>
 			<Role>ПолныеПрава</Role>
 			<Role>Кладовщик</Role>
 			<Role>Менеджер</Role>
@@ -263,6 +264,8 @@
 			<ScheduledJob>СлияниеИндекса</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОборотыПоТоварам</Report>

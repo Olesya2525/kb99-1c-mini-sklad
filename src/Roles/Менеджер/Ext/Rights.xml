@@ -15,6 +15,17 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.Пользователи</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Document.Поступление.TabularSection.Товары</name>
 		<right>
 			<name>View</name>
@@ -41,6 +52,9 @@
 		<right>
 			<name>Read</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<condition>#ПоСкладу</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>Insert</name>
@@ -140,6 +154,17 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>Catalog.Склады</name>
+		<right>
+			<name>Read</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -518,4 +543,8 @@
 			<value>true</value>
 		</right>
 	</object>
+	<restrictionTemplate>
+		<name>ПоСкладу</name>
+		<condition>ГДЕ Склад = &amp;ТекущийСклад</condition>
+	</restrictionTemplate>
 </Rights>
