@@ -262,10 +262,12 @@
 			<CommonModule>РегламентныеПроцедуры</CommonModule>
 			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
 			<ScheduledJob>СлияниеИндекса</ScheduledJob>
+			<ScheduledJob>ОбновлениеСлужебныхДанных</ScheduledJob>
 			<Catalog>Товары</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Склады</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>СлужебныеДанные</Catalog>
 			<Document>Поступление</Document>
 			<Document>Реализация</Document>
 			<Report>ОборотыПоТоварам</Report>
