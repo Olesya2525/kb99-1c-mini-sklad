@@ -26,7 +26,7 @@
 		<Metadata name="CommonModule.РаботаСДокументами.Module" id="7919158d-fd00-44ce-b0bc-973757cb8937.0" configVersion="a179b33644f37b4b96d6febf8a6d733c00000000"/>
 		<Metadata name="CommonModule.РегламентныеПроцедуры" id="c9cdd4e3-a67f-4288-8aa7-cfd54f97e1e7" configVersion="a6a65893de343e4e8ec61e86f766d33800000000"/>
 		<Metadata name="CommonModule.РегламентныеПроцедуры.Module" id="c9cdd4e3-a67f-4288-8aa7-cfd54f97e1e7.0" configVersion="8ed7ed6bae238249a37be70252f92a4300000000"/>
-		<Metadata name="Configuration.МиниСклад" id="52febbb7-0d18-4b21-89f2-cc4d1169282a" configVersion="77a9066c3c17e8498b46a1fe5dcafc8d00000000"/>
+		<Metadata name="Configuration.МиниСклад" id="52febbb7-0d18-4b21-89f2-cc4d1169282a" configVersion="6e6bc5141ec9f64a998bacfdf939daeb00000000"/>
 		<Metadata name="Configuration.МиниСклад.ManagedApplicationModule" id="27f1b481-362e-4355-91d5-1fda1c1bdbf6.6" configVersion="1b03257bcf78384e80ed4dc56fe9961500000000"/>
 		<Metadata name="Configuration.МиниСклад.SessionModule" id="27f1b481-362e-4355-91d5-1fda1c1bdbf6.7" configVersion="afc187fbc71f4f43a7c689e54ffc017200000000"/>
 		<Metadata name="Document.Поступление" id="b1eec21c-d7d7-44c2-9404-a8d1184e3164" configVersion="a9a64b981eb33847b9fdf12bb10577ce00000000">
@@ -60,6 +60,12 @@
 		<Metadata name="Document.Реализация.ObjectModule" id="30d10357-af61-440a-b696-18074daa90aa.0" configVersion="a4573075ca8bfb419794121590396de800000000"/>
 		<Metadata name="Document.Реализация.Template.Печать" id="b369bd77-154a-47eb-becf-7c34e61e15d9" configVersion="4409124175824448aeae5f72cb50013200000000"/>
 		<Metadata name="Document.Реализация.Template.Печать.Template" id="b369bd77-154a-47eb-becf-7c34e61e15d9.0" configVersion="4ceecbe1b7c9374b82178c321fc1f54200000000"/>
+		<Metadata name="HTTPService.ОбменJSON" id="94ab5171-c1ae-4681-8ae0-786b55c03289" configVersion="b80cda0052765e4eb370496e0c00f3cc00000000">
+			<Metadata name="HTTPService.ОбменJSON.URLTemplate.Товары.Method.Метод2" id="761c8daf-ca22-41ed-832b-2dde23ba96f2"/>
+			<Metadata name="HTTPService.ОбменJSON.URLTemplate.Товары" id="bce68d14-5ab1-4b7d-b7a5-f7283cb81ec5"/>
+			<Metadata name="HTTPService.ОбменJSON.URLTemplate.Товары.Method.Метод1" id="caea34af-ab01-41e7-88d4-50f2549170a0"/>
+		</Metadata>
+		<Metadata name="HTTPService.ОбменJSON.Module" id="94ab5171-c1ae-4681-8ae0-786b55c03289.0" configVersion="3e1183307a8ca044b6be61e87e6d663e00000000"/>
 		<Metadata name="Language.Русский" id="40db5a1f-4d76-4f77-8ef6-97247d1c8af7" configVersion="95b323bebfb81340823d397715da58fc00000000"/>
 		<Metadata name="Report.ОборотыПоТоварам" id="58dd31f4-1c4f-46f5-b7e9-3ad3342dcec3" configVersion="b95a41538fbe9b47ac8a916e1cc6adba00000000"/>
 		<Metadata name="Report.ОборотыПоТоварам.Template.ОсновнаяСхемаКомпоновкиДанных" id="4afb122d-69fa-4553-84e1-062a964695fc" configVersion="e0778685d740c74c88c8c756d3aefc9100000000"/>
@@ -73,8 +79,8 @@
 		<Metadata name="Role.Кладовщик.Rights" id="21872521-86e2-46db-bfd2-74d799ef8d48.0" configVersion="2f3e04bdc159fd4fbcbebca4a07de71f00000000"/>
 		<Metadata name="Role.Менеджер" id="60deb1cd-bf76-48e8-8b86-b54f27c75bb5" configVersion="ca80c21731636a409e70a2577f0c0e4300000000"/>
 		<Metadata name="Role.Менеджер.Rights" id="60deb1cd-bf76-48e8-8b86-b54f27c75bb5.0" configVersion="b98c1c9d06833c4c95b49e105f7a0ce000000000"/>
-		<Metadata name="Role.ПолныеПрава" id="cfe8a314-47a7-4ea4-a992-dbe6351a6c68" configVersion="9b4f96064fe3064183feb5b3d70c3f6000000000"/>
-		<Metadata name="Role.ПолныеПрава.Rights" id="cfe8a314-47a7-4ea4-a992-dbe6351a6c68.0" configVersion="a9310cebc03a9240a1d7974783bd6bc700000000"/>
+		<Metadata name="Role.ПолныеПрава" id="cfe8a314-47a7-4ea4-a992-dbe6351a6c68" configVersion="0f5ed0132e917545a8cba8d794c7513700000000"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="cfe8a314-47a7-4ea4-a992-dbe6351a6c68.0" configVersion="20793ec35bca3047ac74ed9f0f78275b00000000"/>
 		<Metadata name="ScheduledJob.ОбновлениеИндекса" id="9a85627d-3634-4edd-bef7-6cf9907ec8b3" configVersion="91e724715f6dd24bb992c0a51efe665600000000"/>
 		<Metadata name="ScheduledJob.ОбновлениеИндекса.Schedule" id="9a85627d-3634-4edd-bef7-6cf9907ec8b3.0" configVersion="c744ca2acab84540bc64bca8220e4eec00000000"/>
 		<Metadata name="ScheduledJob.ОбновлениеСлужебныхДанных" id="c692ec88-f4a5-47b7-9cea-d8b9227049eb" configVersion="9188ee5d4a09444c903bb6b89202e0e500000000"/>

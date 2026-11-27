@@ -565,6 +565,13 @@
 		</right>
 	</object>
 	<object>
+		<name>HTTPService.ОбменJSON.URLTemplate.Товары.Method.Метод2</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.СлужебныеДанные</name>
 		<right>
 			<name>Read</name>
@@ -823,6 +830,13 @@
 		</right>
 		<right>
 			<name>Set</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
+		<name>HTTPService.ОбменJSON.URLTemplate.Товары.Method.Метод1</name>
+		<right>
+			<name>Use</name>
 			<value>true</value>
 		</right>
 	</object>

@@ -260,6 +260,7 @@
 			<Role>Гость</Role>
 			<CommonModule>РаботаСДокументами</CommonModule>
 			<CommonModule>РегламентныеПроцедуры</CommonModule>
+			<HTTPService>ОбменJSON</HTTPService>
 			<ScheduledJob>ОбновлениеИндекса</ScheduledJob>
 			<ScheduledJob>СлияниеИндекса</ScheduledJob>
 			<ScheduledJob>ОбновлениеСлужебныхДанных</ScheduledJob>
